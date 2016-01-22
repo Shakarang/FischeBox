@@ -1,0 +1,536 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7969218F1AF79358000C3FA4 /* ZOOM0009.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 7969217D1AF79358000C3FA4 /* ZOOM0009.WAV */; };
+		796921901AF79358000C3FA4 /* ZOOM0010.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 7969217E1AF79358000C3FA4 /* ZOOM0010.WAV */; };
+		796921911AF79358000C3FA4 /* ZOOM0011.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 7969217F1AF79358000C3FA4 /* ZOOM0011.WAV */; };
+		796921921AF79358000C3FA4 /* ZOOM0012.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 796921801AF79358000C3FA4 /* ZOOM0012.WAV */; };
+		796921931AF79358000C3FA4 /* ZOOM0013.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 796921811AF79358000C3FA4 /* ZOOM0013.WAV */; };
+		796921941AF79358000C3FA4 /* ZOOM0014.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 796921821AF79358000C3FA4 /* ZOOM0014.WAV */; };
+		796921951AF79358000C3FA4 /* ZOOM0015.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 796921831AF79358000C3FA4 /* ZOOM0015.WAV */; };
+		796921961AF79358000C3FA4 /* ZOOM0016.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 796921841AF79358000C3FA4 /* ZOOM0016.WAV */; };
+		796921971AF79358000C3FA4 /* ZOOM0017.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 796921851AF79358000C3FA4 /* ZOOM0017.WAV */; };
+		796921981AF79358000C3FA4 /* ZOOM0018.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 796921861AF79358000C3FA4 /* ZOOM0018.WAV */; };
+		796921991AF79358000C3FA4 /* ZOOM0019.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 796921871AF79358000C3FA4 /* ZOOM0019.WAV */; };
+		7969219A1AF79358000C3FA4 /* ZOOM0020.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 796921881AF79358000C3FA4 /* ZOOM0020.WAV */; };
+		7969219B1AF79358000C3FA4 /* ZOOM0021.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 796921891AF79358000C3FA4 /* ZOOM0021.WAV */; };
+		7969219C1AF79358000C3FA4 /* ZOOM0022.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 7969218A1AF79358000C3FA4 /* ZOOM0022.WAV */; };
+		7969219D1AF79358000C3FA4 /* ZOOM0023.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 7969218B1AF79358000C3FA4 /* ZOOM0023.WAV */; };
+		7969219E1AF79358000C3FA4 /* ZOOM0024.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 7969218C1AF79358000C3FA4 /* ZOOM0024.WAV */; };
+		7969219F1AF79358000C3FA4 /* ZOOM0025.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 7969218D1AF79358000C3FA4 /* ZOOM0025.WAV */; };
+		796921A01AF79358000C3FA4 /* ZOOM0026.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 7969218E1AF79358000C3FA4 /* ZOOM0026.WAV */; };
+		79C9DF261AEFD6440078048C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 79C9DF251AEFD6440078048C /* main.m */; };
+		79C9DF291AEFD6440078048C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 79C9DF281AEFD6440078048C /* AppDelegate.m */; };
+		79C9DF2C1AEFD6440078048C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 79C9DF2B1AEFD6440078048C /* ViewController.m */; };
+		79C9DF2F1AEFD6440078048C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79C9DF2D1AEFD6440078048C /* Main.storyboard */; };
+		79C9DF311AEFD6440078048C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79C9DF301AEFD6440078048C /* Images.xcassets */; };
+		79C9DF341AEFD6440078048C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 79C9DF321AEFD6440078048C /* LaunchScreen.xib */; };
+		79C9DF401AEFD6440078048C /* Fische_m_SimulatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 79C9DF3F1AEFD6440078048C /* Fische_m_SimulatorTests.m */; };
+		79C9DF4A1AEFD7FC0078048C /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79C9DF491AEFD7FC0078048C /* AVFoundation.framework */; };
+		79C9DF4C1AEFD8070078048C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79C9DF4B1AEFD8070078048C /* UIKit.framework */; };
+		79C9DF4E1AEFD8110078048C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79C9DF4D1AEFD8110078048C /* Foundation.framework */; };
+		79C9DF501AEFD8170078048C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79C9DF4F1AEFD8170078048C /* CoreGraphics.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		79C9DF3A1AEFD6440078048C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 79C9DF181AEFD6440078048C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 79C9DF1F1AEFD6440078048C;
+			remoteInfo = "Fische_m-Simulator";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7969217D1AF79358000C3FA4 /* ZOOM0009.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0009.WAV; path = Sounds/ZOOM0009.WAV; sourceTree = "<group>"; };
+		7969217E1AF79358000C3FA4 /* ZOOM0010.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0010.WAV; path = Sounds/ZOOM0010.WAV; sourceTree = "<group>"; };
+		7969217F1AF79358000C3FA4 /* ZOOM0011.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0011.WAV; path = Sounds/ZOOM0011.WAV; sourceTree = "<group>"; };
+		796921801AF79358000C3FA4 /* ZOOM0012.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0012.WAV; path = Sounds/ZOOM0012.WAV; sourceTree = "<group>"; };
+		796921811AF79358000C3FA4 /* ZOOM0013.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0013.WAV; path = Sounds/ZOOM0013.WAV; sourceTree = "<group>"; };
+		796921821AF79358000C3FA4 /* ZOOM0014.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0014.WAV; path = Sounds/ZOOM0014.WAV; sourceTree = "<group>"; };
+		796921831AF79358000C3FA4 /* ZOOM0015.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0015.WAV; path = Sounds/ZOOM0015.WAV; sourceTree = "<group>"; };
+		796921841AF79358000C3FA4 /* ZOOM0016.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0016.WAV; path = Sounds/ZOOM0016.WAV; sourceTree = "<group>"; };
+		796921851AF79358000C3FA4 /* ZOOM0017.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0017.WAV; path = Sounds/ZOOM0017.WAV; sourceTree = "<group>"; };
+		796921861AF79358000C3FA4 /* ZOOM0018.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0018.WAV; path = Sounds/ZOOM0018.WAV; sourceTree = "<group>"; };
+		796921871AF79358000C3FA4 /* ZOOM0019.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0019.WAV; path = Sounds/ZOOM0019.WAV; sourceTree = "<group>"; };
+		796921881AF79358000C3FA4 /* ZOOM0020.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0020.WAV; path = Sounds/ZOOM0020.WAV; sourceTree = "<group>"; };
+		796921891AF79358000C3FA4 /* ZOOM0021.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0021.WAV; path = Sounds/ZOOM0021.WAV; sourceTree = "<group>"; };
+		7969218A1AF79358000C3FA4 /* ZOOM0022.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0022.WAV; path = Sounds/ZOOM0022.WAV; sourceTree = "<group>"; };
+		7969218B1AF79358000C3FA4 /* ZOOM0023.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0023.WAV; path = Sounds/ZOOM0023.WAV; sourceTree = "<group>"; };
+		7969218C1AF79358000C3FA4 /* ZOOM0024.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0024.WAV; path = Sounds/ZOOM0024.WAV; sourceTree = "<group>"; };
+		7969218D1AF79358000C3FA4 /* ZOOM0025.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0025.WAV; path = Sounds/ZOOM0025.WAV; sourceTree = "<group>"; };
+		7969218E1AF79358000C3FA4 /* ZOOM0026.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ZOOM0026.WAV; path = Sounds/ZOOM0026.WAV; sourceTree = "<group>"; };
+		79C9DF201AEFD6440078048C /* FischeBox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FischeBox.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		79C9DF241AEFD6440078048C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79C9DF251AEFD6440078048C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		79C9DF271AEFD6440078048C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		79C9DF281AEFD6440078048C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		79C9DF2A1AEFD6440078048C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		79C9DF2B1AEFD6440078048C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		79C9DF2E1AEFD6440078048C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		79C9DF301AEFD6440078048C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		79C9DF331AEFD6440078048C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		79C9DF391AEFD6440078048C /* Fische_m-SimulatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fische_m-SimulatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		79C9DF3E1AEFD6440078048C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79C9DF3F1AEFD6440078048C /* Fische_m_SimulatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Fische_m_SimulatorTests.m; sourceTree = "<group>"; };
+		79C9DF491AEFD7FC0078048C /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		79C9DF4B1AEFD8070078048C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		79C9DF4D1AEFD8110078048C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		79C9DF4F1AEFD8170078048C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		79C9DF1D1AEFD6440078048C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79C9DF501AEFD8170078048C /* CoreGraphics.framework in Frameworks */,
+				79C9DF4E1AEFD8110078048C /* Foundation.framework in Frameworks */,
+				79C9DF4C1AEFD8070078048C /* UIKit.framework in Frameworks */,
+				79C9DF4A1AEFD7FC0078048C /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		79C9DF361AEFD6440078048C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		792627731AF6A9B200E88844 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7969217D1AF79358000C3FA4 /* ZOOM0009.WAV */,
+				7969217E1AF79358000C3FA4 /* ZOOM0010.WAV */,
+				7969217F1AF79358000C3FA4 /* ZOOM0011.WAV */,
+				796921801AF79358000C3FA4 /* ZOOM0012.WAV */,
+				796921811AF79358000C3FA4 /* ZOOM0013.WAV */,
+				796921821AF79358000C3FA4 /* ZOOM0014.WAV */,
+				796921831AF79358000C3FA4 /* ZOOM0015.WAV */,
+				796921841AF79358000C3FA4 /* ZOOM0016.WAV */,
+				796921851AF79358000C3FA4 /* ZOOM0017.WAV */,
+				796921861AF79358000C3FA4 /* ZOOM0018.WAV */,
+				796921871AF79358000C3FA4 /* ZOOM0019.WAV */,
+				796921881AF79358000C3FA4 /* ZOOM0020.WAV */,
+				796921891AF79358000C3FA4 /* ZOOM0021.WAV */,
+				7969218A1AF79358000C3FA4 /* ZOOM0022.WAV */,
+				7969218B1AF79358000C3FA4 /* ZOOM0023.WAV */,
+				7969218C1AF79358000C3FA4 /* ZOOM0024.WAV */,
+				7969218D1AF79358000C3FA4 /* ZOOM0025.WAV */,
+				7969218E1AF79358000C3FA4 /* ZOOM0026.WAV */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		79C9DF171AEFD6440078048C = {
+			isa = PBXGroup;
+			children = (
+				79C9DF4F1AEFD8170078048C /* CoreGraphics.framework */,
+				79C9DF4D1AEFD8110078048C /* Foundation.framework */,
+				79C9DF4B1AEFD8070078048C /* UIKit.framework */,
+				79C9DF491AEFD7FC0078048C /* AVFoundation.framework */,
+				792627731AF6A9B200E88844 /* Resources */,
+				79C9DF221AEFD6440078048C /* Fische_m-Simulator */,
+				79C9DF3C1AEFD6440078048C /* Fische_m-SimulatorTests */,
+				79C9DF211AEFD6440078048C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		79C9DF211AEFD6440078048C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				79C9DF201AEFD6440078048C /* FischeBox.app */,
+				79C9DF391AEFD6440078048C /* Fische_m-SimulatorTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		79C9DF221AEFD6440078048C /* Fische_m-Simulator */ = {
+			isa = PBXGroup;
+			children = (
+				79C9DF271AEFD6440078048C /* AppDelegate.h */,
+				79C9DF281AEFD6440078048C /* AppDelegate.m */,
+				79C9DF2A1AEFD6440078048C /* ViewController.h */,
+				79C9DF2B1AEFD6440078048C /* ViewController.m */,
+				79C9DF2D1AEFD6440078048C /* Main.storyboard */,
+				79C9DF301AEFD6440078048C /* Images.xcassets */,
+				79C9DF321AEFD6440078048C /* LaunchScreen.xib */,
+				79C9DF231AEFD6440078048C /* Supporting Files */,
+			);
+			path = "Fische_m-Simulator";
+			sourceTree = "<group>";
+		};
+		79C9DF231AEFD6440078048C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				79C9DF241AEFD6440078048C /* Info.plist */,
+				79C9DF251AEFD6440078048C /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		79C9DF3C1AEFD6440078048C /* Fische_m-SimulatorTests */ = {
+			isa = PBXGroup;
+			children = (
+				79C9DF3F1AEFD6440078048C /* Fische_m_SimulatorTests.m */,
+				79C9DF3D1AEFD6440078048C /* Supporting Files */,
+			);
+			path = "Fische_m-SimulatorTests";
+			sourceTree = "<group>";
+		};
+		79C9DF3D1AEFD6440078048C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				79C9DF3E1AEFD6440078048C /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		79C9DF1F1AEFD6440078048C /* Fische_m-Simulator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 79C9DF431AEFD6440078048C /* Build configuration list for PBXNativeTarget "Fische_m-Simulator" */;
+			buildPhases = (
+				79C9DF1C1AEFD6440078048C /* Sources */,
+				79C9DF1D1AEFD6440078048C /* Frameworks */,
+				79C9DF1E1AEFD6440078048C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Fische_m-Simulator";
+			productName = "Fische_m-Simulator";
+			productReference = 79C9DF201AEFD6440078048C /* FischeBox.app */;
+			productType = "com.apple.product-type.application";
+		};
+		79C9DF381AEFD6440078048C /* Fische_m-SimulatorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 79C9DF461AEFD6440078048C /* Build configuration list for PBXNativeTarget "Fische_m-SimulatorTests" */;
+			buildPhases = (
+				79C9DF351AEFD6440078048C /* Sources */,
+				79C9DF361AEFD6440078048C /* Frameworks */,
+				79C9DF371AEFD6440078048C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				79C9DF3B1AEFD6440078048C /* PBXTargetDependency */,
+			);
+			name = "Fische_m-SimulatorTests";
+			productName = "Fische_m-SimulatorTests";
+			productReference = 79C9DF391AEFD6440078048C /* Fische_m-SimulatorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		79C9DF181AEFD6440078048C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = "Maxime JUNGER";
+				TargetAttributes = {
+					79C9DF1F1AEFD6440078048C = {
+						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = JWHA9MBD3S;
+					};
+					79C9DF381AEFD6440078048C = {
+						CreatedOnToolsVersion = 6.3.1;
+						TestTargetID = 79C9DF1F1AEFD6440078048C;
+					};
+				};
+			};
+			buildConfigurationList = 79C9DF1B1AEFD6440078048C /* Build configuration list for PBXProject "Fische_m-Simulator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 79C9DF171AEFD6440078048C;
+			productRefGroup = 79C9DF211AEFD6440078048C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				79C9DF1F1AEFD6440078048C /* Fische_m-Simulator */,
+				79C9DF381AEFD6440078048C /* Fische_m-SimulatorTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		79C9DF1E1AEFD6440078048C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7969219B1AF79358000C3FA4 /* ZOOM0021.WAV in Resources */,
+				79C9DF2F1AEFD6440078048C /* Main.storyboard in Resources */,
+				796921931AF79358000C3FA4 /* ZOOM0013.WAV in Resources */,
+				796921A01AF79358000C3FA4 /* ZOOM0026.WAV in Resources */,
+				79C9DF341AEFD6440078048C /* LaunchScreen.xib in Resources */,
+				7969219F1AF79358000C3FA4 /* ZOOM0025.WAV in Resources */,
+				796921941AF79358000C3FA4 /* ZOOM0014.WAV in Resources */,
+				7969218F1AF79358000C3FA4 /* ZOOM0009.WAV in Resources */,
+				796921911AF79358000C3FA4 /* ZOOM0011.WAV in Resources */,
+				796921961AF79358000C3FA4 /* ZOOM0016.WAV in Resources */,
+				796921921AF79358000C3FA4 /* ZOOM0012.WAV in Resources */,
+				79C9DF311AEFD6440078048C /* Images.xcassets in Resources */,
+				7969219A1AF79358000C3FA4 /* ZOOM0020.WAV in Resources */,
+				7969219E1AF79358000C3FA4 /* ZOOM0024.WAV in Resources */,
+				796921971AF79358000C3FA4 /* ZOOM0017.WAV in Resources */,
+				7969219D1AF79358000C3FA4 /* ZOOM0023.WAV in Resources */,
+				796921981AF79358000C3FA4 /* ZOOM0018.WAV in Resources */,
+				796921991AF79358000C3FA4 /* ZOOM0019.WAV in Resources */,
+				796921901AF79358000C3FA4 /* ZOOM0010.WAV in Resources */,
+				7969219C1AF79358000C3FA4 /* ZOOM0022.WAV in Resources */,
+				796921951AF79358000C3FA4 /* ZOOM0015.WAV in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		79C9DF371AEFD6440078048C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		79C9DF1C1AEFD6440078048C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79C9DF2C1AEFD6440078048C /* ViewController.m in Sources */,
+				79C9DF291AEFD6440078048C /* AppDelegate.m in Sources */,
+				79C9DF261AEFD6440078048C /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		79C9DF351AEFD6440078048C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79C9DF401AEFD6440078048C /* Fische_m_SimulatorTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		79C9DF3B1AEFD6440078048C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 79C9DF1F1AEFD6440078048C /* Fische_m-Simulator */;
+			targetProxy = 79C9DF3A1AEFD6440078048C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		79C9DF2D1AEFD6440078048C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				79C9DF2E1AEFD6440078048C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		79C9DF321AEFD6440078048C /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				79C9DF331AEFD6440078048C /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		79C9DF411AEFD6440078048C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		79C9DF421AEFD6440078048C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		79C9DF441AEFD6440078048C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = "Fische_m-Simulator/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = FischeBox;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		79C9DF451AEFD6440078048C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = "Fische_m-Simulator/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = FischeBox;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		79C9DF471AEFD6440078048C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Fische_m-SimulatorTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FischeBox.app/FischeBox";
+			};
+			name = Debug;
+		};
+		79C9DF481AEFD6440078048C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Fische_m-SimulatorTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FischeBox.app/FischeBox";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		79C9DF1B1AEFD6440078048C /* Build configuration list for PBXProject "Fische_m-Simulator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79C9DF411AEFD6440078048C /* Debug */,
+				79C9DF421AEFD6440078048C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		79C9DF431AEFD6440078048C /* Build configuration list for PBXNativeTarget "Fische_m-Simulator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79C9DF441AEFD6440078048C /* Debug */,
+				79C9DF451AEFD6440078048C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		79C9DF461AEFD6440078048C /* Build configuration list for PBXNativeTarget "Fische_m-SimulatorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79C9DF471AEFD6440078048C /* Debug */,
+				79C9DF481AEFD6440078048C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 79C9DF181AEFD6440078048C /* Project object */;
+}
